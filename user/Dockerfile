@@ -1,4 +1,4 @@
-FROM node:14
+FROM node:18.3.0-buster-slim
 
 ENV INSTANA_AUTO_PROFILE true
 
