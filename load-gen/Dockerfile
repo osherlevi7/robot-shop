@@ -1,4 +1,4 @@
-FROM python:3.9
+FROM python:3.11.0b1-slim-buster
 
 # Some default values
 ENV HOST="http://localhost:8080/" \
